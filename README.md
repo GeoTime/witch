@@ -26,7 +26,7 @@ Requires the [Go](https://golang.org/) programming language binaries with the `G
 ## Installation
 
 ```bash
-go get github.com/unchartedsoftware/witch
+go get github.com/geotime/witch
 ```
 
 ## Usage
