@@ -1,4 +1,4 @@
-module github.com/unchartedsoftware/witch
+module github.com/geotime/witch
 
 go 1.12
 
